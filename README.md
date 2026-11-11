@@ -13,13 +13,6 @@ I build full-stack products, Web3D and AR/XR experiences, and free, open-source 
 
 <table>
   <tr>
-    <td width="96" valign="top"><a href="https://oliverz.dev/products/tsuba"><img src="https://raw.githubusercontent.com/chihyungchang/Tsuba/main/app/src-tauri/icons/128x128@2x.png" width="72" alt="Tsuba icon"></a></td>
-    <td valign="top">
-      <b><a href="https://oliverz.dev/products/tsuba">Tsuba</a></b>: checks unfamiliar code before it runs for the first time on your Mac: <code>curl | bash</code>, npm installs, cloned repos, DMGs, VS Code extensions and MCP servers. Built after a fake Upwork job got malware onto my Mac.<br>
-      <sub>macOS menu bar app · Rust, TypeScript · <a href="https://github.com/chihyungchang/Tsuba">Source</a> · <a href="https://oliverz.dev/blog/upwork-contagious-interview">The story</a></sub>
-    </td>
-  </tr>
-  <tr>
     <td width="96" valign="top"><a href="https://emilefilm.com"><img src="https://raw.githubusercontent.com/oliverzdev/Emile/main/app/src-tauri/icons/128x128@2x.png" width="72" alt="Émile icon"></a></td>
     <td valign="top">
       <b><a href="https://emilefilm.com">Émile</a></b>: the AI agent video editor. Say what film you want: the agent researches, plans and draws every clip onto a real timeline, then keeps editing with you, in the chat, on the picture or by hand. Works with Claude, Codex or Gemini. Still in development.<br>
@@ -28,7 +21,7 @@ I build full-stack products, Web3D and AR/XR experiences, and free, open-source 
   </tr>
 </table>
 
-Both are free and Apache 2.0.
+Free and Apache 2.0.
 
 ## Videos
 

@@ -20,10 +20,10 @@ I build full-stack products, Web3D and AR/XR experiences, and free, open-source 
     </td>
   </tr>
   <tr>
-    <td width="96" valign="top"><a href="https://oliverz.dev/products/shotloop"><img src="https://raw.githubusercontent.com/chihyungchang/Shotloop/main/app/src-tauri/icons/128x128@2x.png" width="72" alt="Shotloop icon"></a></td>
+    <td width="96" valign="top"><a href="https://emilefilm.com"><img src="https://raw.githubusercontent.com/oliverzdev/Emile/main/app/src-tauri/icons/128x128@2x.png" width="72" alt="Émile icon"></a></td>
     <td valign="top">
-      <b><a href="https://oliverz.dev/products/shotloop">Shotloop</a></b>: make short explainer videos from code with AI, one shot at a time. 2D shots in HTML or 3D in Blender, each checked and fixed on its own, so a fix re-renders one shot, not the film.<br>
-      <sub>macOS app · Rust, TypeScript, Python · <a href="https://github.com/chihyungchang/Shotloop">Source</a></sub>
+      <b><a href="https://emilefilm.com">Émile</a></b>: the AI agent video editor. Say what film you want: the agent researches, plans and draws every clip onto a real timeline, then keeps editing with you, in the chat, on the picture or by hand. Works with Claude, Codex or Gemini. Still in development.<br>
+      <sub>macOS app · Rust, TypeScript · <a href="https://emilefilm.com">emilefilm.com</a> · <a href="https://github.com/oliverzdev/Emile">Source</a></sub>
     </td>
   </tr>
 </table>

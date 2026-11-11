@@ -23,7 +23,7 @@ I build full-stack products, Web3D and AR/XR experiences, and free, open-source 
     <td width="96" valign="top"><a href="https://emilefilm.com"><img src="https://raw.githubusercontent.com/oliverzdev/Emile/main/app/src-tauri/icons/128x128@2x.png" width="72" alt="Émile icon"></a></td>
     <td valign="top">
       <b><a href="https://emilefilm.com">Émile</a></b>: the AI agent video editor. Say what film you want: the agent researches, plans and draws every clip onto a real timeline, then keeps editing with you, in the chat, on the picture or by hand. Works with Claude, Codex or Gemini. Still in development.<br>
-      <sub>macOS app · Rust, TypeScript · <a href="https://emilefilm.com">emilefilm.com</a> · <a href="https://github.com/oliverzdev/Emile">Source</a></sub>
+      <sub>macOS app · Rust, TypeScript · <a href="https://github.com/oliverzdev/Emile">Source</a></sub>
     </td>
   </tr>
 </table>

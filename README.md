@@ -4,8 +4,6 @@
 
 I'm building **[Émile](https://emilefilm.com)**, the AI video editor for Mac: generate, cut, finish. I write its shaders and transitions by hand, and I make every video on my channel with it.
 
-正在做 **Émile**：给中文创作者的 Mac AI 剪辑软件。放进口播录像或说一句想法，AI 出粗剪，你在时间线上收尾。
-
 <p>
   <a href="https://emilefilm.com"><img alt="emilefilm.com" src="https://img.shields.io/badge/emilefilm.com-ff3b1f?style=for-the-badge&logo=apple&logoColor=white"></a> <a href="https://oliverz.dev"><img alt="oliverz.dev" src="https://img.shields.io/badge/oliverz.dev-d7ff3a?style=for-the-badge&logo=googlechrome&logoColor=0b0b0c"></a>
 </p>

@@ -2,7 +2,9 @@
   <img alt="Oliver Zhang, founder of Émile. Shaders, transitions, short films." src="assets/banner.png">
 </a>
 
-I'm building **[Émile](https://emilefilm.com)**, the AI agent video editor for Mac. I write its shaders and transitions by hand, and I make every video on my channel with it.
+I'm building **[Émile](https://emilefilm.com)**, the AI video editor for Mac: generate, cut, finish. I write its shaders and transitions by hand, and I make every video on my channel with it.
+
+正在做 **Émile**：给中文创作者的 Mac AI 剪辑软件。放进口播录像或说一句想法，AI 出粗剪，你在时间线上收尾。
 
 <p>
   <a href="https://emilefilm.com"><img alt="emilefilm.com" src="https://img.shields.io/badge/emilefilm.com-ff3b1f?style=for-the-badge&logo=apple&logoColor=white"></a> <a href="https://oliverz.dev"><img alt="oliverz.dev" src="https://img.shields.io/badge/oliverz.dev-d7ff3a?style=for-the-badge&logo=googlechrome&logoColor=0b0b0c"></a>
@@ -15,10 +17,10 @@ I'm building **[Émile](https://emilefilm.com)**, the AI agent video editor for 
 
 <table>
   <tr>
-    <td width="96" valign="top"><a href="https://emilefilm.com"><img src="https://raw.githubusercontent.com/oliverzdev/Emile/main/app/src-tauri/icons/128x128@2x.png" width="72" alt="Émile icon"></a></td>
+    <td width="96" valign="top"><a href="https://emilefilm.com"><img src="assets/emile.png" width="72" alt="Émile icon"></a></td>
     <td valign="top">
-      Say what film you want, or bring your script. The agent researches, plans and draws every clip onto a real timeline, with voice-over and captions, then keeps editing with you: in the chat, on the picture or by hand. 16:9 or 9:16. Works with Claude, Codex or Gemini.<br>
-      <sub>macOS · Rust, TypeScript · Apache 2.0 · in development · <a href="https://github.com/oliverzdev/Emile">Source</a></sub>
+      Say what you want, or bring your recording and script. The agent transcribes and cuts the talking head, generates and draws clips onto a real multi-track timeline, and adds Chinese or English voice-over and captions on your Mac. Then it keeps editing with you: in the chat, on the picture or by hand. 16:9 or 9:16. Works with Claude, Codex or Gemini.<br>
+      <sub>macOS · no account, your files stay on your Mac · in development · <a href="https://emilefilm.com">emilefilm.com</a></sub>
     </td>
   </tr>
 </table>
